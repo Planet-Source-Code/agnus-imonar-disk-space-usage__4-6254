@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-## Disk Space Usage<br/>by Agnus Imonar
+## Disk Space Usage
 
 
 </div>
@@ -20,11 +20,15 @@ The disk space you're using on your server
 
 <span>             |<span>
 ---                |---
-**Category**       |Miscellaneous
+**Submitted On**   |
+**By**             |[Agnus Imonar](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByAuthor/agnus-imonar.md)
 **Level**          |Intermediate
-**User Rating**    |5.0 (10 votes by 2 users)|
-**Compatibility**  |ASP (Active Server Pages), HTML, VbScript (browser/client side)
+**User Rating**    |5.0 (10 globes from 2 users)
+**Compatibility**  |ASP \(Active Server Pages\), HTML, VbScript \(browser/client side\)
 
+**Category**       |[Miscellaneous](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByCategory/miscellaneous__4-1.md)
+**World**          |[ASP / VbScript](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByWorld/asp-vbscript.md)
+**Archive File**   |[](https://github.com/Planet-Source-Code/agnus-imonar-disk-space-usage__4-6254/archive/master.zip)
 
 
 
@@ -32,7 +36,6 @@ The disk space you're using on your server
 
 ### Source Code
 
-```
 <HTML>
 <HEAD>
 <META http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -107,4 +110,4 @@ next 'end of the for next loop %><BR>
 &lt;/html></P>
 </BODY>
 </HTML>
-```
+
